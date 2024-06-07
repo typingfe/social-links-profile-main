@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Link to my project](https://blog-preview-card-main-liard-eta.vercel.app/)
+- Live Site URL: [Link to my project](https://social-links-profile-main-olive-zeta.vercel.app/)
 
 ### Built with
 
